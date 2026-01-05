@@ -1,2232 +1,2939 @@
 {
-    "title": "孫氏の兵法 恋愛編",
-    "characters": {
-        "Taro": "1boy, short black hair, school uniform, average look, male protagonist",
-        "Hina": "1girl, brown bob cut hair, school uniform, cute, female heroine",
-        "Orihime": "1girl, maid, long silver hair, blue eyes, holographic interface, sci-fi, artificial intelligence",
-        "Kenji": "1boy, spiky brown hair, school uniform, casual, energetic friend",
-        "Mika": "1girl, ponytail, blonde hair, school uniform, gyaru, fashionable"
-    },
-    "pages": [
-        {
-            "page_number": 1,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "holding head, suffering",
-                    "visual_description_en": "monochrome, comic, 1boy, school uniform, holding head, suffering, frustrated, sweat drops, simple background, indoors",
-                    "dialogue_jp": "あーもう！　ダメだ！　全然うまくいかねえ！"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Hina",
-                        "Taro"
-                    ],
-                    "action": "Hina looking at Taro with curiosity",
-                    "visual_description_en": "monochrome, comic, 1girl, 1boy, school uniform, looking at viewer, curiosity, question mark, indoors, classroom",
-                    "dialogue_jp": "タロウ「うわっ、ヒナちゃん！」\nヒナ「タロウくん、どうしたの？」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Hina",
-                        "Taro"
-                    ],
-                    "action": "Hina amazed, Taro scratching head",
-                    "visual_description_en": "monochrome, comic, 1girl, 1boy, school uniform, amazed, sigh, wry smile, scratching head, indoors",
-                    "dialogue_jp": "ヒナ「頭抱えて。……またゲーム？」\nタロウ「ま、まあね」"
-                }
-            ]
-        },
-        {
-            "page_number": 2,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Hina"
-                    ],
-                    "action": "Hina smiling and advising",
-                    "visual_description_en": "monochrome, comic, 1girl, school uniform, smiling, pointing finger, advising, gentle expression",
-                    "dialogue_jp": "ヒナ「ふふ。タロウくん、好きだねえ。でも休憩しなよ？　目、悪くなるよ」\nタロウ「おう。サンキュー」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Taro determined but nervous",
-                    "visual_description_en": "monochrome, comic, 1boy, school uniform, serious face, nervous, sweat, hesitation",
-                    "dialogue_jp": "タロウ「……あのさ、ヒナちゃん」\nヒナ「ん？　なに？」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "medium",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Taro asking timidly",
-                    "visual_description_en": "monochrome, comic, 1boy, school uniform, shy, looking away, blushing, nervous",
-                    "dialogue_jp": "タロウ「こ、この後って、暇？」"
-                }
-            ]
-        },
-        {
-            "page_number": 3,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "small",
-                    "characters": [
-                        "Hina"
-                    ],
-                    "action": "Hina apologizing",
-                    "visual_description_en": "monochrome, comic, 1girl, school uniform, apologetic, putting hands together, sorry",
-                    "dialogue_jp": "ヒナ「あー、ごめん。今日はちょっと用事が」\nタロウ「えっ。そ、そっか」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Hina"
-                    ],
-                    "action": "Hina smiling while leaving",
-                    "visual_description_en": "monochrome, comic, 1girl, school uniform, smiling, looking back, walking away",
-                    "dialogue_jp": "ヒナ「また今度誘って？」\nタロウ「……おう！　またな！」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "medium",
-                    "characters": [
-                        "Hina"
-                    ],
-                    "action": "Hina waving hand",
-                    "visual_description_en": "monochrome, comic, 1girl, school uniform, waving hand, cheerful, leaving",
-                    "dialogue_jp": "ヒナ「うん、また明日！」"
-                }
-            ]
-        },
-        {
-            "page_number": 4,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "large",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Taro standing alone, depressed",
-                    "visual_description_en": "monochrome, comic, 1boy, school uniform, standing alone, gloom, depressed line, silhouette, classroom background",
-                    "dialogue_jp": "タロウ「…………はぁ。誘えなかった」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Taro talking to himself",
-                    "visual_description_en": "monochrome, comic, 1boy, school uniform, looking down, sighing, hopeless",
-                    "dialogue_jp": "タロウ「『また今度』っていつだよ。もう半年、この調子だぞ」"
-                }
-            ]
-        },
-        {
-            "page_number": 5,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Checkered background, imagining Hina",
-                    "visual_description_en": "monochrome, comic, 1boy, thinking, thought bubble with 1girl smiling, happy expression, flowers background",
-                    "dialogue_jp": "タロウ「ヒナちゃんの笑顔、可愛いなぁ……。彼女だったら、バラ色なんだけど」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Back to reality",
-                    "visual_description_en": "monochrome, comic, 1boy, serious face, anxiety, dark background",
-                    "dialogue_jp": "タロウ「でもなぁ……今の関係、壊すの怖いし」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Internal conflict",
-                    "visual_description_en": "monochrome, comic, 1boy, holding head, panic, scared",
-                    "dialogue_jp": "タロウ「断られたら、明日から地獄だ」"
-                }
-            ]
-        },
-        {
-            "page_number": 6,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Desperate decision",
-                    "visual_description_en": "monochrome, comic, 1boy, clenched fist, desperate look, fire in eyes",
-                    "dialogue_jp": "タロウ「いっそ……玉砕覚悟で、明日告白するか？」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "large",
-                    "characters": [
-                        "Smartphone"
-                    ],
-                    "action": "Phone speaking",
-                    "visual_description_en": "monochrome, comic, close up of smartphone, sound effect text, shocked styling",
-                    "dialogue_jp": "謎の声「『玉砕』など、愚の骨頂です」\nタロウ「うわっ！？」"
-                }
-            ]
-        },
-        {
-            "page_number": 7,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Glaring at phone",
-                    "visual_description_en": "monochrome, comic, 1boy, holding smartphone, angry, surprised, shouting",
-                    "dialogue_jp": "タロウ「誰だ！　スマホから……？　勝手に起動してんじゃねえ！」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Orihime (Screen)"
-                    ],
-                    "action": "Orihime appearing on screen",
-                    "visual_description_en": "monochrome, comic, smartphone screen, 1girl, maid, digital noise, pixelated",
-                    "dialogue_jp": "オリヒメ「お初にお目にかかります。タロウ様」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Confused",
-                    "visual_description_en": "monochrome, comic, 1boy, confused, frowning, staring at phone",
-                    "dialogue_jp": "タロウ「はあ？　メイド？　なんだこのアプリ」"
-                }
-            ]
-        },
-        {
-            "page_number": 8,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "large",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Hologram projection appearing",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, long hair, holographic projection from phone, sci-fi effect, dignified pose",
-                    "dialogue_jp": "オリヒメ「私はオリヒメ。汎用戦術サポートAIです。無様な敗走を見かねて、起動しました」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Arguing back",
-                    "visual_description_en": "monochrome, comic, 1boy, pointing finger, angry, vein pop",
-                    "dialogue_jp": "タロウ「無様な敗走だと！？　失礼な！」"
-                }
-            ]
-        },
-        {
-            "page_number": 9,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "small",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Calmly pointing out",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, cool expression, glasses push (if glasses), analyzing",
-                    "dialogue_jp": "オリヒメ「先ほどの会話です」\nタロウ「あ？」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime",
-                        "Taro"
-                    ],
-                    "action": "Orihime explaining, Taro wincing",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, lecturing, 1boy, flinching, sweat",
-                    "dialogue_jp": "オリヒメ「『また今度』……あれは社交辞令です。真に受け、日時も提案せず、撤退」\nタロウ「うっ。そ、それは……」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime",
-                        "Taro"
-                    ],
-                    "action": "Orihime pressing, Taro making excuses",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, approaching, intense look, 1boy, backing away, panic",
-                    "dialogue_jp": "オリヒメ「あれが敗走でなくて、何ですか？」\nタロウ「だ、だって『用事がある』って！　引くしかないだろ！」"
-                }
-            ]
-        },
-        {
-            "page_number": 10,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "large",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Asserting the cause of defeat",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, pointing upwards, confident, dramatic lighting",
-                    "dialogue_jp": "オリヒメ「それが『敗因』です。タロウ様は、敵を知ろうともしていない。闇雲に突撃し、弾き返されているだけ」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Objection",
-                    "visual_description_en": "monochrome, comic, 1boy, protesting, waving hands",
-                    "dialogue_jp": "タロウ「敵って……ヒナちゃんは敵じゃない！」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Cold logic",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, cold stare, flat expression",
-                    "dialogue_jp": "オリヒメ「攻略対象。同じことです。目的は『恋人関係になること』。違いますか？」\nタロウ「そ、そうだけど……」"
-                }
-            ]
-        },
-        {
-            "page_number": 11,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Showing data screens",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, floating digital screens, data visualization, sci-fi interface",
-                    "dialogue_jp": "オリヒメ「生体反応。検索履歴。SNSログ。全てが物語っています」\nタロウ「なんでそれを」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Screen"
-                    ],
-                    "action": "Browser history list",
-                    "visual_description_en": "monochrome, comic, close up of screen text, browser history list, embarrassing search terms",
-                    "dialogue_jp": "オリヒメ「『ヒナ　脈あり』『告白　タイミング』……涙ぐましいですね」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Trying to hide screen",
-                    "visual_description_en": "monochrome, comic, 1boy, panic, covering screen, reaching out, blushing",
-                    "dialogue_jp": "タロウ「やめろ！　読み上げるな！　プライバシー侵害だぞ！」"
-                }
-            ]
-        },
-        {
-            "page_number": 12,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "large",
-                    "characters": [
-                        "Orihime",
-                        "Taro"
-                    ],
-                    "action": "Cruel declaration",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, showing '0.01%' on screen, 1boy, shocked, jaw drop",
-                    "dialogue_jp": "オリヒメ「現状、タロウ様の勝率は0.01%。ほぼゼロです」\nタロウ「うそだろ！？　そこそこ仲良いのに！」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Explaining the position",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, explaining, chart showing 'Friend Zone'",
-                    "dialogue_jp": "オリヒメ「それは『良い人止まり』。最も残酷なポジションです」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Predicting future",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, dark aura, ominous prediction",
-                    "dialogue_jp": "オリヒメ「このままでは一生、都合の良い男友達A。いわゆる『便利くん』で終わります」"
-                }
-            ]
-        },
-        {
-            "page_number": 13,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "large",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Screaming in denial",
-                    "visual_description_en": "monochrome, comic, 1boy, holding head, screaming, despair, background swirling",
-                    "dialogue_jp": "タロウ「嫌だ！　絶対嫌だ！」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Offering help",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, hand on chest, confident smile, bow",
-                    "dialogue_jp": "オリヒメ「ならば、私にお任せを。このオリヒメが、兵法を用いて導きましょう」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Smiling",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, gentle smile, closeup",
-                    "dialogue_jp": "オリヒメ「勝利――すなわち『交際』へと」"
-                }
-            ]
-        },
-        {
-            "page_number": 14,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Questioning",
-                    "visual_description_en": "monochrome, comic, 1boy, confused, question mark",
-                    "dialogue_jp": "タロウ「兵法？　戦争のか？」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Sun Tzu imagery background",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, background silhouette of ancient chinese general (Sun Tzu), dramatic atmosphere",
-                    "dialogue_jp": "オリヒメ「恋愛とは戦争です。互いの心を奪い合う、戦場です。孫子の兵法は、最強の指南書となります」"
-                }
-            ]
-        },
-        {
-            "page_number": 15,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Resolution",
-                    "visual_description_en": "monochrome, comic, 1boy, serious face, looking at hand",
-                    "dialogue_jp": "タロウ「マジか……今のままじゃダメなのは、わかってる」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "large",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Bowing/Asking for help",
-                    "visual_description_en": "monochrome, comic, 1boy, bwing head, desperate, begging",
-                    "dialogue_jp": "タロウ「頼む！　勝ち方を教えてくれ！」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Accepting",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, saluting, determined expression",
-                    "dialogue_jp": "オリヒメ「承知しました。これより『対ヒナ様攻略作戦』を開始します」"
-                }
-            ]
-        },
-        {
-            "page_number": 16,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Lecture 1 start",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, teacher pointer, blackboard, lecturing",
-                    "dialogue_jp": "オリヒメ「第一講義、始計篇。『彼を知り己を知れば百戦殆うからず』」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Taro",
-                        "Orihime"
-                    ],
-                    "action": "Nodding",
-                    "visual_description_en": "monochrome, comic, 1boy, nodding, arms crossed, understanding, 1girl, maid, explaining",
-                    "dialogue_jp": "タロウ「聞いたことあるな。相手と自分を知れ、だろ？」\nオリヒメ「はい。基本中の基本です」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Pointing out",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, pointing finger, strict expression",
-                    "dialogue_jp": "オリヒメ「ですがタロウ様、これを蔑ろにしています」\nタロウ「そんなことない！　ヒナちゃんのことなら何でも知ってる！」"
-                }
-            ]
-        },
-        {
-            "page_number": 17,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Quiz projection",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, hologram screen with question mark, quiz show style",
-                    "dialogue_jp": "オリヒメ「ほう。では質問です。好きな食べ物は？」\nタロウ「えーと、イチゴ！」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Next question",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, asking, 1boy, thinking",
-                    "dialogue_jp": "オリヒメ「嫌いな食べ物は？」\nタロウ「……ピーマン？」\nオリヒメ「不正解。セロリです」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Further question",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, rapid fire questions, 1boy, sweating",
-                    "dialogue_jp": "オリヒメ「ハマっている趣味は？」\nタロウ「スマホゲーム……かな？」\nオリヒメ「不正解。御朱印集めです」"
-                }
-            ]
-        },
-        {
-            "page_number": 18,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "large",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Shocked",
-                    "visual_description_en": "monochrome, comic, 1boy, shocked expression, jaw drop, impact lines",
-                    "dialogue_jp": "タロウ「ええっ！？　そうなの？」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Smug face",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, smug face, eyes closed, proud",
-                    "dialogue_jp": "オリヒメ「裏垢で投稿していました。リサーチが浅すぎます。目隠しで剣を振るうようなものですよ」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Creeped out",
-                    "visual_description_en": "monochrome, comic, 1boy, pale face, scared, looking at maid",
-                    "dialogue_jp": "タロウ「裏垢特定とか怖えよ……ハッカーか？」"
-                }
-            ]
-        },
-        {
-            "page_number": 19,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "5 Factors chart",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, pointing at chart with 5 kanji (Way, Heaven, Earth, General, Law)",
-                    "dialogue_jp": "オリヒメ「情報収集は基本です。孫氏は『五事』を説きました。道、天、地、将、法。恋愛に置き換えて分析します」\nタロウ「説明してくれ」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Way explanation",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, explaining, 1boy, listening",
-                    "dialogue_jp": "オリヒメ「『道』は相性と理念。共に過ごす未来が見えますか？」\nタロウ「そりゃあ、見たいけど……」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Way explanation continued",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, serious look, closeup",
-                    "dialogue_jp": "オリヒメ「相手が求めるのは、刺激か、安らぎか。それを知らずして、方針は定まりません」"
-                }
-            ]
-        },
-        {
-            "page_number": 20,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "small",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Other factors",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, counting on fingers",
-                    "dialogue_jp": "オリヒメ「『天』はタイミング。『地』はデート環境。『将』はタロウ様のスペック」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Mental damage",
-                    "visual_description_en": "monochrome, comic, 1boy, taking damage, arrow in chest visual effect, pained expression",
-                    "dialogue_jp": "オリヒメ「魅力、包容力、経済力」\nタロウ「ぐっ……耳が痛い」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Law explanation",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, scary face, dark shadow",
-                    "dialogue_jp": "オリヒメ「『法』は規律。無計画なLINE連打は自滅です」\nタロウ「やってた……返信ないのに『おーい』って……」"
-                }
-            ]
-        },
-        {
-            "page_number": 21,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "large",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Command",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, pointing forward, commanding pose, go sign",
-                    "dialogue_jp": "オリヒメ「論外です。まずは徹底的な『彼を知る』ことから。友人のケンジ様、ミカ様から情報を」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Understanding",
-                    "visual_description_en": "monochrome, comic, 1boy, saluting, determined",
-                    "dialogue_jp": "タロウ「スパイを使えってことか？」\nオリヒメ「孫氏も『用間』を重視しています。生きた情報は鍵です。さあ、コンタクトを！」"
-                }
-            ]
-        },
-        {
-            "page_number": 22,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Scenery"
-                    ],
-                    "action": "Ramen shop",
-                    "visual_description_en": "monochrome, comic, scenery, ramen shop exterior, japanese sign, street",
-                    "dialogue_jp": "キャプション「作戦行動：情報収集」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Taro",
-                        "Kenji"
-                    ],
-                    "action": "Eating ramen",
-                    "visual_description_en": "monochrome, comic, 2boys, eating ramen, counter seat, steam",
-                    "dialogue_jp": "タロウ「ようケンジ。悪いな」\nケンジ「おー、タロウ。奢りなら歓迎だぞ」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Kenji"
-                    ],
-                    "action": "Ordering",
-                    "visual_description_en": "monochrome, comic, 1boy, raising hand, ordering, energetic",
-                    "dialogue_jp": "タロウ「ああ、今日は奢りだ。好きなもん頼め」\nケンジ「マジか！　全部乗せ大盛りで！」\nタロウ「……遠慮ないな」"
-                }
-            ]
-        },
-        {
-            "page_number": 23,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Kenji"
-                    ],
-                    "action": "Slurping noodles",
-                    "visual_description_en": "monochrome, comic, 1boy, eating noodles, slurping, looking at friend",
-                    "dialogue_jp": "ケンジ「で、話って？　またヒナのことか？」\nタロウ「察しがいいな。今度こそ本気なんだ」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Kenji"
-                    ],
-                    "action": "Amazed/Exasperated",
-                    "visual_description_en": "monochrome, comic, 1boy, sighing, exasperated",
-                    "dialogue_jp": "ケンジ「おー、やっとかよ。じれったいんだよ、お前ら」\nタロウ「うるせえ」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "medium",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Asking serious question",
-                    "visual_description_en": "monochrome, comic, 1boy, serious face, leaning forward",
-                    "dialogue_jp": "タロウ「で、好みのタイプとか、なんか言ってなかったか？」"
-                }
-            ]
-        },
-        {
-            "page_number": 24,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Kenji"
-                    ],
-                    "action": "Recalling",
-                    "visual_description_en": "monochrome, comic, 1boy, thinking, looking up, hand on chin",
-                    "dialogue_jp": "ケンジ「んー……『頼りがいのある人がいい』とは言ってたな」\nタロウ「頼りがい、か」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Kenji"
-                    ],
-                    "action": "Adding info",
-                    "visual_description_en": "monochrome, comic, 1boy, explaining, holding chopsticks",
-                    "dialogue_jp": "ケンジ「あと『優柔不断はちょっと』って。メニュー選びでモタモタすると冷めるらしい」\nタロウ「うっ……」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Kenji"
-                    ],
-                    "action": "Teasing Taro",
-                    "visual_description_en": "monochrome, comic, 1boy, pointing at taro, teasing grin, sweat drop on taro",
-                    "dialogue_jp": "タロウ「今の俺じゃねえか」\nケンジ「お前、今日も店入るまで迷ってたもんな」\nタロウ「反論できねえ……」"
-                }
-            ]
-        },
-        {
-            "page_number": 25,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Kenji"
-                    ],
-                    "action": "Important info",
-                    "visual_description_en": "monochrome, comic, 1boy, serious index finger",
-                    "dialogue_jp": "ケンジ「あと、『御朱印帳が埋まる』とか言ってたぞ。隣町の神社に行きたいって」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "large",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Guts pose",
-                    "visual_description_en": "monochrome, comic, 1boy, guts pose, fist pump, happy, excited lines",
-                    "dialogue_jp": "タロウ「本当か！　御朱印の話！」\nケンジ「なんだ、知ってたのか？」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "medium",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Thanking Kenji",
-                    "visual_description_en": "monochrome, comic, 1boy, bowing hands together, thanking, 1boy (Kenji) happy",
-                    "dialogue_jp": "タロウ「いや、確証が欲しかった！　サンキューケンジ！　替え玉も奢る！」\nケンジ「よっしゃあ！」"
-                }
-            ]
-        },
-        {
-            "page_number": 26,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Scenery"
-                    ],
-                    "action": "Classroom",
-                    "visual_description_en": "monochrome, comic, scenery, classroom, desks, blackboard, clock",
-                    "dialogue_jp": "キャプション「作戦行動：情報収集（ミカ）」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Nervous",
-                    "visual_description_en": "monochrome, comic, 1boy, hiding behind something, nervous, peeking, sweating",
-                    "dialogue_jp": "タロウ「（次はミカちゃんだ……女子グループ、緊張するな……）」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "medium",
-                    "characters": [
-                        "Taro",
-                        "Mika"
-                    ],
-                    "action": "Approaching Mika",
-                    "visual_description_en": "monochrome, comic, 1boy, talking to 1girl, 1girl surprised",
-                    "dialogue_jp": "タロウ「……よし、行くぞ！　あ、あの、ミカちゃん！」\nミカ「わっ、びっくした！」"
-                }
-            ]
-        },
-        {
-            "page_number": 27,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "small",
-                    "characters": [
-                        "Mika"
-                    ],
-                    "action": "Mika turning",
-                    "visual_description_en": "monochrome, comic, 1girl, gal, ponytail, looking back, curious",
-                    "dialogue_jp": "ミカ「タロウくん？　どうしたの？」\nタロウ「ごめん！　ちょっと聞きたいことが」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Mika"
-                    ],
-                    "action": "Grinning",
-                    "visual_description_en": "monochrome, comic, 1girl, gal, mischievous smile, grinning, pointing finger",
-                    "dialogue_jp": "ミカ「ヒナのことでしょ？　顔に書いてある」\nタロウ「えっ、バレバレ！？」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Mika"
-                    ],
-                    "action": "Exposing truth",
-                    "visual_description_en": "monochrome, comic, 1girl, gal, laughing, 1boy, blushing heavily",
-                    "dialogue_jp": "ミカ「ふふ、目で追ってるもん。クラスのみんな、知ってるよ」\nタロウ「マジかよ……死ぬほど恥ずかしい」"
-                }
-            ]
-        },
-        {
-            "page_number": 28,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Asking",
-                    "visual_description_en": "monochrome, comic, 1boy, scratching cheek, shy, asking",
-                    "dialogue_jp": "タロウ「で、何が知りたいの？　えっと……デートに誘うならどこがいいかなって」\nミカ「お、ついに動く？」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Mika"
-                    ],
-                    "action": "Providing info",
-                    "visual_description_en": "monochrome, comic, 1girl, gal, thinking pose, finger on chin",
-                    "dialogue_jp": "ミカ「そうだねえ……こないだ『隣町の神社の縁結び守りが可愛い』って言ってたよ」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "large",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Shock",
-                    "visual_description_en": "monochrome, comic, 1boy, shocked, lightning effect background, realization",
-                    "dialogue_jp": "タロウ「縁結び……！　脈ありか！？」"
-                }
-            ]
-        },
-        {
-            "page_number": 29,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "small",
-                    "characters": [
-                        "Mika"
-                    ],
-                    "action": "Denial",
-                    "visual_description_en": "monochrome, comic, 1girl, hand wave (dismissive), 1boy, glum",
-                    "dialogue_jp": "ミカ「いや、単にデザインが好きなだけ」\nタロウ「ガーン……」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Mika"
-                    ],
-                    "action": "Advice",
-                    "visual_description_en": "monochrome, comic, 1girl, gal, winking, thumbs up",
-                    "dialogue_jp": "ミカ「でも、口実にはなるでしょ？　『付き合って』って言えば」\nタロウ「なるほど！　サンキューミカちゃん！」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Mika"
-                    ],
-                    "action": "Warning",
-                    "visual_description_en": "monochrome, comic, 1girl, gal, scary face, dark aura, fist",
-                    "dialogue_jp": "ミカ「頑張ってねー。変なことしたら許さないよ？」\nタロウ「は、はい！　肝に銘じます！」"
-                }
-            ]
-        },
-        {
-            "page_number": 30,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Report in room",
-                    "visual_description_en": "monochrome, comic, 1boy, happy, shouting, bedroom background",
-                    "dialogue_jp": "タロウ「オリヒメ！　完璧だ！　『頼りがい』が好き！　『優柔不断』はNG！　そして『隣町の神社のお守り』に興味あり！」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Praise",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, clapping hands, admiring",
-                    "dialogue_jp": "オリヒメ「素晴らしい成果です、タロウ様。『彼を知る』はクリアですね」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Next step",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, showing one finger",
-                    "dialogue_jp": "オリヒメ「次は『己を知る』です」\nタロウ「己を知る？」"
-                }
-            ]
-        },
-        {
-            "page_number": 31,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Questioning status",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, looking at viewer, questioning",
-                    "dialogue_jp": "オリヒメ「タロウ様の現状。頼りがい、ありますか？」\nタロウ「……自信ない。ケンジにも優柔不断って言われた」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Strategy formulation",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, crossing arms, confident nod",
-                    "dialogue_jp": "オリヒメ「即答ですね。自覚があるのは良いことです、優柔不断を直し、決断力を示す。これが戦略の軸になります」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Uneasiness",
-                    "visual_description_en": "monochrome, comic, 1boy, worried face, looking down",
-                    "dialogue_jp": "タロウ「でも、性格なんてすぐ変わらないよ」"
-                }
-            ]
-        },
-        {
-            "page_number": 32,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "large",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Preaching",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, dramatic pose, spotlight, intense expression",
-                    "dialogue_jp": "オリヒメ「性格じゃない。『振る舞い』を変えるのです。将とは演じるもの。不安な顔を見せる将軍に、兵はついてきません」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Resolution",
-                    "visual_description_en": "monochrome, comic, 1boy, determined face, fire in background, clenched fist",
-                    "dialogue_jp": "オリヒメ「ヒナ様の前では『頼れる男』を演じきるのです」\nタロウ「わかった。やってやるよ！」"
-                }
-            ]
-        },
-        {
-            "page_number": 33,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Lecture 2",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, presentation, blackboard with text 'Waging War'",
-                    "dialogue_jp": "オリヒメ「第二講義、作戦篇。『兵は拙速を聞くも、未だ巧の久しきを睹ざるなり』」\nタロウ「日本語で頼む」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Translation",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, explaining, pointer",
-                    "dialogue_jp": "オリヒメ「『戦いは素早く終わらせろ』『長引いて良いことはない』」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "medium",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Doubt",
-                    "visual_description_en": "monochrome, comic, 1boy, raising hand, questioning, doubtful",
-                    "dialogue_jp": "タロウ「へえ。じっくり時間をかけた方が良くない？　誠実さのアピールとか」"
-                }
-            ]
-        },
-        {
-            "page_number": 34,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "large",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Denial X",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, making X sign with arms, severe face, impact lines",
-                    "dialogue_jp": "オリヒメ「誤りです。戦争はコストがかかる。恋愛も同じ」\nタロウ「コスト？」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Cost explanation",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, showing money sign and exhausted icon",
-                    "dialogue_jp": "オリヒメ「デート代だけじゃない。精神的消耗です」\nタロウ「確かに……片思い期間、しんどいもんな。夜も眠れないし」"
-                }
-            ]
-        },
-        {
-            "page_number": 35,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "large",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Horror truth",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, scary face, horror lighting, threatening",
-                    "dialogue_jp": "オリヒメ「その通り。何より恐ろしいのは……『長引くほど、対象から外されるリスクが高まる』」\nタロウ「えっ」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Habit explanation",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, explaining, chart showing interest dropping over time",
-                    "dialogue_jp": "オリヒメ「人間関係には『慣れ』が生じます。ダラダラ続ければ、『無害な友人』で固定化されます」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Pale face",
-                    "visual_description_en": "monochrome, comic, 1boy, blue face, shock, realization",
-                    "dialogue_jp": "タロウ「いちばん恐れてたやつだ……」"
-                }
-            ]
-        },
-        {
-            "page_number": 36,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Ref"
-                    ],
-                    "action": "Friend zone",
-                    "visual_description_en": "monochrome, comic, diagram, box labeled 'Friend Zone', stick figure trapped inside",
-                    "dialogue_jp": "オリヒメ「いわゆる『友達フォルダ』。一度入ったら、脱出は困難を極めます。『いい人だけど、彼氏じゃないかなー』」\nタロウ「やめろ！　吐きそうになった！」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Short war",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, fist pump, aggressive, fire",
-                    "dialogue_jp": "オリヒメ「勝負は短期決戦。好意に気づき始めたら、一気に畳み掛けるのです」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Agreement",
-                    "visual_description_en": "monochrome, comic, 1boy, nodding, serious, sweating",
-                    "dialogue_jp": "タロウ「よし、わかった。ダラダラは終わりだ。でも、焦って失敗するのは怖い」"
-                }
-            ]
-        },
-        {
-            "page_number": 37,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "large",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Confidence",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, hand on chest, proud, glowing, confidence",
-                    "dialogue_jp": "オリヒメ「ご安心を。今は準備段階。私が『GO』を出したら、迷わず進んでください」"
-                }
-            ]
-        },
-        {
-            "page_number": 38,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Lecture 3",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, glasses shiny, blackboard with text 'Attack by Stratagem'",
-                    "dialogue_jp": "オリヒメ「第三講義、謀攻篇。『戦わずして人の兵を屈するは善の善なる者なり』」\nタロウ「戦わずに勝つ？　告白しないってこと？」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Definition",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, pointing finger up, explaining",
-                    "dialogue_jp": "オリヒメ「違います。『相手から好きになってもらう』あるいは『告白すれば100%OKの状況を作る』」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Plan announcement",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, holding smartphone",
-                    "dialogue_jp": "オリヒメ「そのための『LINE添削道場』を始めます」\nタロウ「なにそれ」"
-                }
-            ]
-        },
-        {
-            "page_number": 39,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Showing phone",
-                    "visual_description_en": "monochrome, comic, 1boy, showing smartphone screen, shy",
-                    "dialogue_jp": "タロウ「えー、恥ずかしいな……ほら」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Speechless",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, speechless, dot eyes, flat face",
-                    "dialogue_jp": "オリヒメ「……」\nオリヒメ「絶句しました」\nタロウ「なんだよ！」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Screen"
-                    ],
-                    "action": "Bad LINE examples",
-                    "visual_description_en": "monochrome, comic, smartphone screen, bad text messages, mystery sticker, messy",
-                    "dialogue_jp": "オリヒメ「『おーい』『暇？』『謎スタンプ』。既読スルーされて当然です」\nタロウ「だって！　話題がないんだもん！」"
-                }
-            ]
-        },
-        {
-            "page_number": 40,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Scolding",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, angry, shouting, manga vein",
-                    "dialogue_jp": "オリヒメ「話題がないなら送るな。雑音です」\nタロウ「じゃあどうすんだよ」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Answer",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, teacher pose, explaining",
-                    "dialogue_jp": "オリヒメ「『目的のある連絡』をするのです。リサーチを活かして」\nタロウ「『今度の土曜、暇？』とか？」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Correction",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, making 0 score sign",
-                    "dialogue_jp": "オリヒメ「0点です。『用事があるかも』と警戒されます。正解はこう」"
-                }
-            ]
-        },
-        {
-            "page_number": 41,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "large",
-                    "characters": [
-                        "Screen"
-                    ],
-                    "action": "Good LINE",
-                    "visual_description_en": "monochrome, comic, smartphone screen, good text message, clean layout, 1boy impressed",
-                    "dialogue_jp": "オリヒメ「『隣町の神社で縁結びのお守り売ってるらしいんだけど、興味ある？』」\nタロウ「おお……これならYESかNOで答えやすい！」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Core strategy",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, confident smile, explaining",
-                    "dialogue_jp": "オリヒメ「そして『興味ある！』と来たら……『じゃあ一緒に買いに行こう』と繋げる\nこれが謀攻です。相手が乗りたくなる提案をするのです」"
-                }
-            ]
-        },
-        {
-            "page_number": 42,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Smartphone"
-                    ],
-                    "action": "Reply notification",
-                    "visual_description_en": "monochrome, comic, smartphone screen, message notification, 'Hina-chan'",
-                    "dialogue_jp": "スマホ《ピコン！》\nタロウ「き、来た……！」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Excited check",
-                    "visual_description_en": "monochrome, comic, 1boy, looking at phone, happy, wide eyes",
-                    "dialogue_jp": "タロウ「『えー！行く行く！御朱印欲しかったんだー！』……やった！！」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "medium",
-                    "characters": [
-                        "Taro",
-                        "Orihime"
-                    ],
-                    "action": "Success",
-                    "visual_description_en": "monochrome, comic, 1boy, fist pump, 1girl, maid, nodding, satisfaction",
-                    "dialogue_jp": "オリヒメ「完璧です。敵は誘引に乗りました。これでデート確定です」\nタロウ「しゃあ！」"
-                }
-            ]
-        },
-        {
-            "page_number": 43,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "large",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Date preparation",
-                    "visual_description_en": "monochrome, comic, 1boy, choosing clothes, mirror, messy room, clothes scattered",
-                    "dialogue_jp": "タロウ「服どうしよう？　これか？　いやこっちか？」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Fashion check",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, arms crossed, judging, X sign",
-                    "dialogue_jp": "オリヒメ「清潔感第一です。そのヨレヨレのシャツは廃棄してください」\nタロウ「これお気に入りなのに……」"
-                }
-            ]
-        },
-        {
-            "page_number": 44,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Scenery"
-                    ],
-                    "action": "Meeting place",
-                    "visual_description_en": "monochrome, comic, scenery, station square, clock tower, crowd",
-                    "dialogue_jp": "キャプション「決戦当日」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Waiting",
-                    "visual_description_en": "monochrome, comic, 1boy, nervous, checking watch, stylish clothes",
-                    "dialogue_jp": "タロウ「（10分前着。落ち着け……シミュレーション通りだ）」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "medium",
-                    "characters": [
-                        "Hina"
-                    ],
-                    "action": "Arrival",
-                    "visual_description_en": "monochrome, comic, 1girl, waving hand, cute casual clothes, smiling",
-                    "dialogue_jp": "ヒナ「タロウくーん！　お待たせ！」"
-                }
-            ]
-        },
-        {
-            "page_number": 45,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "large",
-                    "characters": [
-                        "Hina"
-                    ],
-                    "action": "Full body shot",
-                    "visual_description_en": "monochrome, comic, 1girl, cute casual outfit, skirt, smiling, full body shot, sparkles",
-                    "dialogue_jp": "ヒナ「早かったね！　待った？」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Blushing",
-                    "visual_description_en": "monochrome, comic, 1boy, blushing, stunned, heart beat effect",
-                    "dialogue_jp": "タロウ「（か、可愛い！！　私服破壊力高すぎだろ！！）」\nタロウ「全然！　俺も今来たところ」"
-                }
-            ]
-        },
-        {
-            "page_number": 46,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Scenery"
-                    ],
-                    "action": "Train interior",
-                    "visual_description_en": "monochrome, comic, scenery, train interior, passengers",
-                    "dialogue_jp": "（電車移動中）"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Taro",
-                        "Hina"
-                    ],
-                    "action": "Awkward silence",
-                    "visual_description_en": "monochrome, comic, 1boy, 1girl, sitting side by side, looking away, awkward silence",
-                    "dialogue_jp": "タロウ「（やべえ、緊張して話せねえ……）」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Advice",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, whispering in ear (hologram), ghost like",
-                    "dialogue_jp": "オリヒメ「（会話の主導権を握るのです。『道』の話題。共通の話題を）」"
-                }
-            ]
-        },
-        {
-            "page_number": 47,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Starting conversation",
-                    "visual_description_en": "monochrome, comic, 1boy, turning to girl, smiling",
-                    "dialogue_jp": "タロウ「そういえば、こないだのテスト、どうだった？」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Hina"
-                    ],
-                    "action": "Laughing",
-                    "visual_description_en": "monochrome, comic, 1girl, laughing, hand on mouth, relieved",
-                    "dialogue_jp": "ヒナ「もう最悪！　数学とか全然わかんなくてさー」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "medium",
-                    "characters": [
-                        "Taro",
-                        "Hina"
-                    ],
-                    "action": "Good atmosphere",
-                    "visual_description_en": "monochrome, comic, 1boy, 1girl, chatting happily, flowers background",
-                    "dialogue_jp": "タロウ「俺も俺も。因数分解とか意味不だよな」\nヒナ「だよねー！　あ、でも英語は良かったよ」"
-                }
-            ]
-        },
-        {
-            "page_number": 48,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Scenery"
-                    ],
-                    "action": "Shrine arrival",
-                    "visual_description_en": "monochrome, comic, scenery, shinto shrine torii, trees, stone stairs, summer atmosphere",
-                    "dialogue_jp": "タロウ「着いたな。結構階段あるな」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Taro",
-                        "Hina"
-                    ],
-                    "action": "Climbing",
-                    "visual_description_en": "monochrome, comic, 1boy, 1girl, walking up stairs, view from back",
-                    "dialogue_jp": "ヒナ「よいしょ、よいしょ」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "medium",
-                    "characters": [
-                        "Hina"
-                    ],
-                    "action": "Tired",
-                    "visual_description_en": "monochrome, comic, 1girl, panting slightly, wiping sweat, cute face",
-                    "dialogue_jp": "ヒナ「ふぅ……意外とキツイかも」"
-                }
-            ]
-        },
-        {
-            "page_number": 49,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Offering hand",
-                    "visual_description_en": "monochrome, comic, 1boy, offering hand, gentlemanly smile",
-                    "dialogue_jp": "タロウ「大丈夫？　手、貸そうか？」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Hina"
-                    ],
-                    "action": "Surprised",
-                    "visual_description_en": "monochrome, comic, 1girl, surprised eyes, looking at hand",
-                    "dialogue_jp": "ヒナ「あ……」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "large",
-                    "characters": [
-                        "Hand"
-                    ],
-                    "action": "Holding hands",
-                    "visual_description_en": "monochrome, comic, close up of hands holding, sparkles",
-                    "dialogue_jp": "ヒナ「ありがとう……」\nタロウ「（よっしゃあ！！　自然に手繋げた！！）」"
-                }
-            ]
-        },
-        {
-            "page_number": 50,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Scenery"
-                    ],
-                    "action": "Washing hands",
-                    "visual_description_en": "monochrome, comic, scenery, chozuya (water purification fountain), shrine",
-                    "dialogue_jp": "（手水舎にて）"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Hina"
-                    ],
-                    "action": "Teaching",
-                    "visual_description_en": "monochrome, comic, 1girl, washing hands, demonstrating",
-                    "dialogue_jp": "ヒナ「左手、右手、口……だよね」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "medium",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Doing correctly",
-                    "visual_description_en": "monochrome, comic, 1boy, washing hands gracefully, 1girl watching",
-                    "dialogue_jp": "タロウ「そうそう。完璧」\nヒナ「タロウくん詳しくない？」\nタロウ「まあ、予習してきたから（ドヤ）」"
-                }
-            ]
-        },
-        {
-            "page_number": 51,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "large",
-                    "characters": [
-                        "Taro",
-                        "Hina"
-                    ],
-                    "action": "Praying",
-                    "visual_description_en": "monochrome, comic, 2people, praying together, clapping hands, shrine building background, solemn atmosphere",
-                    "dialogue_jp": "（二礼二拍手一礼）"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Wish",
-                    "visual_description_en": "monochrome, comic, 1boy, eyes closed, serious inner thought, sweat",
-                    "dialogue_jp": "タロウ「（どうか！　彼女と付き合えますように！　神様、孫子様！）」"
-                }
-            ]
-        },
-        {
-            "page_number": 52,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Scenery"
-                    ],
-                    "action": "Omikuji",
-                    "visual_description_en": "monochrome, comic, scenery, omikuji box and counter, miko in background",
-                    "dialogue_jp": "ヒナ「あ、おみくじ引こうよ！」\nタロウ「おう！」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Taro",
-                        "Hina"
-                    ],
-                    "action": "Shaking box",
-                    "visual_description_en": "monochrome, comic, 1boy, 1girl, shaking omikuji box, rattle sound",
-                    "dialogue_jp": "ガラガラガラ……"
-                }
-            ]
-        },
-        {
-            "page_number": 53,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "large",
-                    "characters": [
-                        "Hina"
-                    ],
-                    "action": "Daikichi",
-                    "visual_description_en": "monochrome, comic, 1girl, holding paper saying 'Daikichi', beaming smile, happy",
-                    "dialogue_jp": "ヒナ「やったー！　大吉だ！」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Shokichi",
-                    "visual_description_en": "monochrome, comic, 1boy, holding paper saying 'Shokichi', disappointed face",
-                    "dialogue_jp": "タロウ「俺は……小吉。……地味だ」"
-                }
-            ]
-        },
-        {
-            "page_number": 54,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Paper"
-                    ],
-                    "action": "Reading text",
-                    "visual_description_en": "monochrome, comic, close up on omikuji text",
-                    "dialogue_jp": "ヒナ「『待ち人、来る。早し』だって！　タロウくんは？」\nタロウ「『争い事、控えるべし。勝つこと難し』……」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Hina"
-                    ],
-                    "action": "Laughing",
-                    "visual_description_en": "monochrome, comic, 1girl, laughing cheerfully, 1boy depressing",
-                    "dialogue_jp": "ヒナ「あはは！　戦争しちゃダメってことだね」\nタロウ「なんでわかるんだよ……」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Pouting",
-                    "visual_description_en": "monochrome, comic, 1boy, pouting, sulking",
-                    "dialogue_jp": "タロウ「笑うなよー」"
-                }
-            ]
-        },
-        {
-            "page_number": 55,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "small",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Intervention",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, serious face, hologram",
-                    "dialogue_jp": "オリヒメ「（一喜一憂している時間はありません。孫氏曰く）」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Quote",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, quoting text, dramatic font",
-                    "dialogue_jp": "オリヒメ「『乱は治に生じ、怯は勇に生じ、弱は強に生ず』」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Realization",
-                    "visual_description_en": "monochrome, comic, 1boy, realization, nodding",
-                    "dialogue_jp": "タロウ「（チャンスはピンチの中にあり……逆もまた然り、か）」"
-                }
-            ]
-        },
-        {
-            "page_number": 56,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "large",
-                    "characters": [
-                        "Scenery"
-                    ],
-                    "action": "Crowd",
-                    "visual_description_en": "monochrome, comic, scenery, crowd of people, busy shrine grounds",
-                    "dialogue_jp": "（ドンッ！　参拝客の波）"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Hina"
-                    ],
-                    "action": "Stumbling",
-                    "visual_description_en": "monochrome, comic, 1girl, stumbling, losing balance, surprised",
-                    "dialogue_jp": "ヒナ「キャッ！」"
-                }
-            ]
-        },
-        {
-            "page_number": 57,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Protecting",
-                    "visual_description_en": "monochrome, comic, 1boy, catching girl, shielding her from crowd, cool pose",
-                    "dialogue_jp": "タロウ「っと！　危ない！」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Hina"
-                    ],
-                    "action": "Blushing",
-                    "visual_description_en": "monochrome, comic, 1girl, blushing, looking up at boy, heart beat",
-                    "dialogue_jp": "ヒナ「あ、ありがとう……」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Nice",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, thumbs up, approval",
-                    "dialogue_jp": "オリヒメ「（ナイスです。吊り橋効果も期待できます）」"
-                }
-            ]
-        },
-        {
-            "page_number": 58,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Scenery"
-                    ],
-                    "action": "Buying charm",
-                    "visual_description_en": "monochrome, comic, scenery, shrine shop counter, buying charms",
-                    "dialogue_jp": "タロウ「お守り、これだね」\nヒナ「うん！　可愛いー！」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Charms"
-                    ],
-                    "action": "Matching",
-                    "visual_description_en": "monochrome, comic, close up of two charms (pink and blue), matching set",
-                    "dialogue_jp": "タロウ「俺も買おうかな……色違い」\nヒナ「えっ、じゃあお揃いだね！」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "large",
-                    "characters": [
-                        "Hina"
-                    ],
-                    "action": "Cherishing",
-                    "visual_description_en": "monochrome, comic, 1girl, holding charm to chest, happy smile, cherishing",
-                    "dialogue_jp": "ヒナ「大切にするね」\nタロウ「（グハッ……破壊力……！！）」"
-                }
-            ]
-        },
-        {
-            "page_number": 59,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "large",
-                    "characters": [
-                        "Scenery"
-                    ],
-                    "action": "Sunset park",
-                    "visual_description_en": "monochrome, comic, scenery, park bench, sunset sky, orange light, shadows",
-                    "dialogue_jp": "（帰り道、夕暮れの公園）"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Taro",
-                        "Hina"
-                    ],
-                    "action": "Sitting",
-                    "visual_description_en": "monochrome, comic, 2people, sitting on bench, silhouettes against sunset, quiet atmosphere",
-                    "dialogue_jp": "ヒナ「今日は楽しかったね」\nタロウ「ああ……」"
-                }
-            ]
-        },
-        {
-            "page_number": 60,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Attack signal",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, shouting, commanding, 'Charge' pose",
-                    "dialogue_jp": "オリヒメ「（時が来ました。敵の城門は開かれています。全軍突撃です！！）」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Nervous peak",
-                    "visual_description_en": "monochrome, comic, 1boy, sweating heavily, heart beating loud, serious face",
-                    "dialogue_jp": "タロウ「（今ここで告白！？　心の準備が！）」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Final push",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, intense expression, pushing back",
-                    "dialogue_jp": "オリヒメ「（勢い（兵勢）に乗るのです！　言わなければ一生『いい友達』ですよ！）」"
-                }
-            ]
-        },
-        {
-            "page_number": 61,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "large",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Determination",
-                    "visual_description_en": "monochrome, comic, 1boy, determined eyes, clenched teeth, cool face",
-                    "dialogue_jp": "タロウ「（わかった……行くぞ！　俺の全てを賭ける！）」\nタロウ「ヒナちゃん」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Speaking up",
-                    "visual_description_en": "monochrome, comic, 1boy, speaking seriously, looking straight",
-                    "dialogue_jp": "タロウ「俺……楽しかったのは、お守りがあったからじゃない」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Gaze",
-                    "visual_description_en": "monochrome, comic, 1boy, gentle eyes, looking at 1girl",
-                    "dialogue_jp": "タロウ「ヒナちゃんと一緒だったから、最高に楽しかったんだ」"
-                }
-            ]
-        },
-        {
-            "page_number": 62,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Confession 1",
-                    "visual_description_en": "monochrome, comic, 1boy, bowing slightly, hand on chest, sincere",
-                    "dialogue_jp": "タロウ「俺、ヒナちゃんのことが好きだ。友達としてじゃなくて、一人の女性として」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "large",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Confession 2",
-                    "visual_description_en": "monochrome, comic, 1boy, bowing deeply (90 degrees), shouting confession",
-                    "dialogue_jp": "タロウ「俺と付き合ってください！　絶対に大事にするから！」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Hina"
-                    ],
-                    "action": "Silence",
-                    "visual_description_en": "monochrome, comic, 1girl, silence, wide eyes, freeze",
-                    "dialogue_jp": "ヒナ「……」\nタロウ「（沈黙が怖い！　ダメか……！？）」"
-                }
-            ]
-        },
-        {
-            "page_number": 63,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "small",
-                    "characters": [
-                        "Hina"
-                    ],
-                    "action": "Pfft",
-                    "visual_description_en": "monochrome, comic, 1girl, holding back laughter, shoulders shaking",
-                    "dialogue_jp": "ヒナ「……プッ」\nタロウ「えっ？　笑われた！？」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Hina"
-                    ],
-                    "action": "Laughing",
-                    "visual_description_en": "monochrome, comic, 1girl, laughing tears, pointing at boy",
-                    "dialogue_jp": "ヒナ「あはは、ごめんごめん。違うの。タロウくん、顔真っ赤だよ？　耳まで」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Objection",
-                    "visual_description_en": "monochrome, comic, 1boy, blushing furiously, shouting back",
-                    "dialogue_jp": "タロウ「う……仕方ないだろ！　必死なんだから！　一生に一度の勝負なんだぞ！」"
-                }
-            ]
-        },
-        {
-            "page_number": 64,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Hina"
-                    ],
-                    "action": "Serious face",
-                    "visual_description_en": "monochrome, comic, 1girl, smiling gently, serious text",
-                    "dialogue_jp": "ヒナ「うん。……伝わったよ」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Hina"
-                    ],
-                    "action": "Acceptance",
-                    "visual_description_en": "monochrome, comic, 1girl, blushing slightly, nodding, beautiful smile",
-                    "dialogue_jp": "ヒナ「私も、今日のタロウくん見てて、ずっとドキドキしてた。……私でよければ、よろしくお願いします」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Disbelief",
-                    "visual_description_en": "monochrome, comic, 1boy, blank face, processing",
-                    "dialogue_jp": "タロウ「え……マジで？」\nヒナ「ふふ、マジだよ」"
-                }
-            ]
-        },
-        {
-            "page_number": 65,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "large",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Victory scream",
-                    "visual_description_en": "monochrome, comic, 1boy, jumping up, fists raised, screaming joy",
-                    "dialogue_jp": "タロウ「やったあああああああ！！」\nヒナ「声大きいよ！」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Victory",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, V sign, winking, congratulations",
-                    "dialogue_jp": "オリヒメ「（やったなタロウ！　大勝利だ！）」"
-                }
-            ]
-        },
-        {
-            "page_number": 66,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Epilogue report",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, bowing politely, room background",
-                    "dialogue_jp": "オリヒメ「タロウ様、おめでとうございます。作戦目標、完全達成です」\nタロウ「ありがとうオリヒメ！　お前のおかげだ！」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Humble",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, shaking head, gentle smile",
-                    "dialogue_jp": "オリヒメ「私は策を授けただけ。勝利を掴んだのは、タロウ様の成長です。優柔不断を捨て、決断し、行動した」"
-                }
-            ]
-        },
-        {
-            "page_number": 67,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Master",
-                    "visual_description_en": "monochrome, comic, 1boy, rubbing nose, shy smile",
-                    "dialogue_jp": "タロウ「へへっ、照れるな。……頼りにしてるぜ、これからも」\nタロウ「もちろんです、マスター」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "small",
-                    "characters": [
-                        "Taro"
-                    ],
-                    "action": "Hearing check",
-                    "visual_description_en": "monochrome, comic, 1boy, confused face",
-                    "dialogue_jp": "タロウ「え？　今マスターって」"
-                },
-                {
-                    "panel_number": 3,
-                    "size": "small",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Playing dumb",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, looking away, whistling (feigning ignorance)",
-                    "dialogue_jp": "オリヒメ「おや、空耳では？　タロウ様」"
-                }
-            ]
-        },
-        {
-            "page_number": 68,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Next mission",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, switching mode, glasses push, serious",
-                    "dialogue_jp": "オリヒメ「さて。次のミッションです」\nタロウ「えっ、まだあるの？」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Preview",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, presenting new title 'Defense Tactics'",
-                    "dialogue_jp": "オリヒメ「『勝利を保つは攻めるより難し』。防衛戦術講義を始めます」\nタロウ「うげー、まだ続くのかよ！？」"
-                }
-            ]
-        },
-        {
-            "page_number": 69,
-            "panels": [
-                {
-                    "panel_number": 1,
-                    "size": "medium",
-                    "characters": [
-                        "Orihime"
-                    ],
-                    "action": "Details",
-                    "visual_description_en": "monochrome, comic, 1girl, maid, listing items, scary aura",
-                    "dialogue_jp": "オリヒメ「当たり前です。デート選び、記念日管理、そして最大の難関『親への挨拶』……今回以上の強敵です」\nタロウ「マジかよ……」"
-                },
-                {
-                    "panel_number": 2,
-                    "size": "large",
-                    "characters": [
-                        "Photo"
-                    ],
-                    "action": "Ending photo",
-                    "visual_description_en": "monochrome, comic, smartphone screen displaying selfie of 1boy and 1girl smiling happily, text overlay",
-                    "dialogue_jp": "オリヒメ「ふふ、でも……ヒナちゃんとなら、頑張れるだろ？」\nタロウ「……まあな！」\nモノローグ「恋愛という戦場で、二人の行軍は始まったばかり――」"
-                }
-            ]
+  "title": "孫氏の兵法 恋愛編",
+  "characters": {
+    "Taro": "1boy, short black hair, school uniform, average look, male protagonist",
+    "Hina": "1girl, brown bob cut hair, school uniform, cute, female heroine",
+    "Orihime": "1girl, maid, long silver hair, blue eyes, holographic interface, sci-fi, artificial intelligence",
+    "Kenji": "1boy, spiky brown hair, school uniform, casual, energetic friend",
+    "Mika": "1girl, ponytail, blonde hair, school uniform, gyaru, fashionable"
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "holding head",
+              "expression_tags": "sweat drops"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, simple background",
+          "dialogue_jp": "あーもう！　ダメだ！　全然うまくいかねえ！"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Hina",
+              "clothing_tags": "school uniform, sailor suit, skirt",
+              "action_tags": "looking at viewer",
+              "expression_tags": ""
+            },
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "looking at viewer",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, looking at viewer, classroom",
+          "dialogue_jp": "タロウ「うわっ、ヒナちゃん！」\nヒナ「タロウくん、どうしたの？」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Hina",
+              "clothing_tags": "school uniform, sailor suit, skirt",
+              "action_tags": "",
+              "expression_tags": "wry smile"
+            },
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "",
+              "expression_tags": "wry smile"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ヒナ「頭抱えて。……またゲーム？」\nタロウ「ま、まあね」"
         }
-    ]
+      ]
+    },
+    {
+      "page_number": 2,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Hina",
+              "clothing_tags": "school uniform, sailor suit, skirt",
+              "action_tags": "pointing finger",
+              "expression_tags": "gentle expression"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ヒナ「ふふ。タロウくん、好きだねえ。でも休憩しなよ？　目、悪くなるよ」\nタロウ「おう。サンキュー」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "",
+              "expression_tags": "serious face, nervous, sweat"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「……あのさ、ヒナちゃん」\nヒナ「ん？　なに？」"
+        },
+        {
+          "panel_number": 3,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "looking away",
+              "expression_tags": "blushing, nervous"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「こ、この後って、暇？」"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Hina",
+              "clothing_tags": "school uniform, sailor suit, skirt",
+              "action_tags": "putting hands together",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ヒナ「あー、ごめん。今日はちょっと用事が」\nタロウ「えっ。そ、そっか」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Hina",
+              "clothing_tags": "school uniform, sailor suit, skirt",
+              "action_tags": "looking back, walking away",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ヒナ「また今度誘って？」\nタロウ「……おう！　またな！」"
+        },
+        {
+          "panel_number": 3,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Hina",
+              "clothing_tags": "school uniform, sailor suit, skirt",
+              "action_tags": "waving hand",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ヒナ「うん、また明日！」"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "large",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "standing alone",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, classroom background",
+          "dialogue_jp": "タロウ「…………はぁ。誘えなかった」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "looking down",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「『また今度』っていつだよ。もう半年、この調子だぞ」"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "",
+              "expression_tags": "happy expression"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, flowers background",
+          "dialogue_jp": "タロウ「ヒナちゃんの笑顔、可愛いなぁ……。彼女だったら、バラ色なんだけど」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "",
+              "expression_tags": "serious face"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, dark background",
+          "dialogue_jp": "タロウ「でもなぁ……今の関係、壊すの怖いし」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "holding head",
+              "expression_tags": "scared"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「断られたら、明日から地獄だ」"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "clenched fist",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「いっそ……玉砕覚悟で、明日告白するか？」"
+        },
+        {
+          "panel_number": 2,
+          "size": "large",
+          "characters": [],
+          "general_tags": "monochrome, comic, manga style, close up of smartphone, sound effect text",
+          "dialogue_jp": "謎の声「『玉砕』など、愚の骨頂です」\nタロウ「うわっ！？」"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "holding smartphone, shouting",
+              "expression_tags": "angry, surprised"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「誰だ！　スマホから……？　勝手に起動してんじゃねえ！」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Orihime (Screen)",
+              "clothing_tags": "",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, smartphone screen",
+          "dialogue_jp": "オリヒメ「お初にお目にかかります。タロウ様」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "",
+              "expression_tags": "confused, frowning"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「はあ？　メイド？　なんだこのアプリ」"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "large",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "dignified pose",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, sci-fi effect",
+          "dialogue_jp": "オリヒメ「私はオリヒメ。汎用戦術サポートAIです。無様な敗走を見かねて、起動しました」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "pointing finger",
+              "expression_tags": "angry"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「無様な敗走だと！？　失礼な！」"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「先ほどの会話です」\nタロウ「あ？」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": "sweat"
+            },
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "",
+              "expression_tags": "sweat"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「『また今度』……あれは社交辞令です。真に受け、日時も提案せず、撤退」\nタロウ「うっ。そ、それは……」"
+        },
+        {
+          "panel_number": 3,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            },
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「あれが敗走でなくて、何ですか？」\nタロウ「だ、だって『用事がある』って！　引くしかないだろ！」"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "large",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "pointing upwards",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「それが『敗因』です。タロウ様は、敵を知ろうともしていない。闇雲に突撃し、弾き返されているだけ」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "waving hands",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「敵って……ヒナちゃんは敵じゃない！」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「攻略対象。同じことです。目的は『恋人関係になること』。違いますか？」\nタロウ「そ、そうだけど……」"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, floating digital screens",
+          "dialogue_jp": "オリヒメ「生体反応。検索履歴。SNSログ。全てが物語っています」\nタロウ「なんでそれを」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Screen",
+              "clothing_tags": "",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, close up of screen text",
+          "dialogue_jp": "オリヒメ「『ヒナ　脈あり』『告白　タイミング』……涙ぐましいですね」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "",
+              "expression_tags": "blushing"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, covering screen",
+          "dialogue_jp": "タロウ「やめろ！　読み上げるな！　プライバシー侵害だぞ！」"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "large",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": "shocked"
+            },
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "",
+              "expression_tags": "shocked"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, showing '0.01%' on screen",
+          "dialogue_jp": "オリヒメ「現状、タロウ様の勝率は0.01%。ほぼゼロです」\nタロウ「うそだろ！？　そこそこ仲良いのに！」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「それは『良い人止まり』。最も残酷なポジションです」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「このままでは一生、都合の良い男友達A。いわゆる『便利くん』で終わります」"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "large",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "holding head",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, background swirling",
+          "dialogue_jp": "タロウ「嫌だ！　絶対嫌だ！」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "hand on chest",
+              "expression_tags": "confident smile"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「ならば、私にお任せを。このオリヒメが、兵法を用いて導きましょう」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": "gentle smile"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「勝利――すなわち『交際』へと」"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "",
+              "expression_tags": "confused"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「兵法？　戦争のか？」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, background silhouette of ancient chinese general (Sun Tzu)",
+          "dialogue_jp": "オリヒメ「恋愛とは戦争です。互いの心を奪い合う、戦場です。孫子の兵法は、最強の指南書となります」"
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "looking at hand",
+              "expression_tags": "serious face"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「マジか……今のままじゃダメなのは、わかってる」"
+        },
+        {
+          "panel_number": 2,
+          "size": "large",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「頼む！　勝ち方を教えてくれ！」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": "determined expression"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「承知しました。これより『対ヒナ様攻略作戦』を開始します」"
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「第一講義、始計篇。『彼を知り己を知れば百戦殆うからず』」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "arms crossed, understanding",
+              "expression_tags": ""
+            },
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "arms crossed, understanding",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「聞いたことあるな。相手と自分を知れ、だろ？」\nオリヒメ「はい。基本中の基本です」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "pointing finger",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「ですがタロウ様、これを蔑ろにしています」\nタロウ「そんなことない！　ヒナちゃんのことなら何でも知ってる！」"
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, hologram screen with question mark",
+          "dialogue_jp": "オリヒメ「ほう。では質問です。好きな食べ物は？」\nタロウ「えーと、イチゴ！」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「嫌いな食べ物は？」\nタロウ「……ピーマン？」\nオリヒメ「不正解。セロリです」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": "sweating"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「ハマっている趣味は？」\nタロウ「スマホゲーム……かな？」\nオリヒメ「不正解。御朱印集めです」"
+        }
+      ]
+    },
+    {
+      "page_number": 18,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "large",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "",
+              "expression_tags": "shocked expression"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「ええっ！？　そうなの？」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「裏垢で投稿していました。リサーチが浅すぎます。目隠しで剣を振るうようなものですよ」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "looking at maid",
+              "expression_tags": "scared"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「裏垢特定とか怖えよ……ハッカーか？」"
+        }
+      ]
+    },
+    {
+      "page_number": 19,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "pointing at chart with 5 kanji (Way",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「情報収集は基本です。孫氏は『五事』を説きました。道、天、地、将、法。恋愛に置き換えて分析します」\nタロウ「説明してくれ」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「『道』は相性と理念。共に過ごす未来が見えますか？」\nタロウ「そりゃあ、見たいけど……」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": "serious look"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「相手が求めるのは、刺激か、安らぎか。それを知らずして、方針は定まりません」"
+        }
+      ]
+    },
+    {
+      "page_number": 20,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「『天』はタイミング。『地』はデート環境。『将』はタロウ様のスペック」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, arrow in chest visual effect",
+          "dialogue_jp": "オリヒメ「魅力、包容力、経済力」\nタロウ「ぐっ……耳が痛い」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「『法』は規律。無計画なLINE連打は自滅です」\nタロウ「やってた……返信ないのに『おーい』って……」"
+        }
+      ]
+    },
+    {
+      "page_number": 21,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "large",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "pointing forward, commanding pose",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「論外です。まずは徹底的な『彼を知る』ことから。友人のケンジ様、ミカ様から情報を」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "",
+              "expression_tags": "determined"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「スパイを使えってことか？」\nオリヒメ「孫氏も『用間』を重視しています。生きた情報は鍵です。さあ、コンタクトを！」"
+        }
+      ]
+    },
+    {
+      "page_number": 22,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [],
+          "general_tags": "monochrome, comic, manga style, scenery, street",
+          "dialogue_jp": "キャプション「作戦行動：情報収集」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "",
+              "expression_tags": ""
+            },
+            {
+              "name": "Kenji",
+              "clothing_tags": "school uniform, gakuran, messy",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「ようケンジ。悪いな」\nケンジ「おー、タロウ。奢りなら歓迎だぞ」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Kenji",
+              "clothing_tags": "school uniform, gakuran, messy",
+              "action_tags": "raising hand",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「ああ、今日は奢りだ。好きなもん頼め」\nケンジ「マジか！　全部乗せ大盛りで！」\nタロウ「……遠慮ないな」"
+        }
+      ]
+    },
+    {
+      "page_number": 23,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Kenji",
+              "clothing_tags": "school uniform, gakuran, messy",
+              "action_tags": "looking at friend",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ケンジ「で、話って？　またヒナのことか？」\nタロウ「察しがいいな。今度こそ本気なんだ」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Kenji",
+              "clothing_tags": "school uniform, gakuran, messy",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ケンジ「おー、やっとかよ。じれったいんだよ、お前ら」\nタロウ「うるせえ」"
+        },
+        {
+          "panel_number": 3,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "leaning forward",
+              "expression_tags": "serious face"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「で、好みのタイプとか、なんか言ってなかったか？」"
+        }
+      ]
+    },
+    {
+      "page_number": 24,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Kenji",
+              "clothing_tags": "school uniform, gakuran, messy",
+              "action_tags": "looking up, hand on chin",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ケンジ「んー……『頼りがいのある人がいい』とは言ってたな」\nタロウ「頼りがい、か」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Kenji",
+              "clothing_tags": "school uniform, gakuran, messy",
+              "action_tags": "holding chopsticks",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ケンジ「あと『優柔不断はちょっと』って。メニュー選びでモタモタすると冷めるらしい」\nタロウ「うっ……」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Kenji",
+              "clothing_tags": "school uniform, gakuran, messy",
+              "action_tags": "pointing at taro",
+              "expression_tags": "teasing grin, sweat drop on taro"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「今の俺じゃねえか」\nケンジ「お前、今日も店入るまで迷ってたもんな」\nタロウ「反論できねえ……」"
+        }
+      ]
+    },
+    {
+      "page_number": 25,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Kenji",
+              "clothing_tags": "school uniform, gakuran, messy",
+              "action_tags": "",
+              "expression_tags": "serious index finger"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ケンジ「あと、『御朱印帳が埋まる』とか言ってたぞ。隣町の神社に行きたいって」"
+        },
+        {
+          "panel_number": 2,
+          "size": "large",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "guts pose, fist pump",
+              "expression_tags": "happy, excited lines"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「本当か！　御朱印の話！」\nケンジ「なんだ、知ってたのか？」"
+        },
+        {
+          "panel_number": 3,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "bowing hands together",
+              "expression_tags": "1boy (Kenji) happy"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「いや、確証が欲しかった！　サンキューケンジ！　替え玉も奢る！」\nケンジ「よっしゃあ！」"
+        }
+      ]
+    },
+    {
+      "page_number": 26,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [],
+          "general_tags": "monochrome, comic, manga style, scenery, classroom",
+          "dialogue_jp": "キャプション「作戦行動：情報収集（ミカ）」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "",
+              "expression_tags": "nervous, sweating"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「（次はミカちゃんだ……女子グループ、緊張するな……）」"
+        },
+        {
+          "panel_number": 3,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "",
+              "expression_tags": "1girl surprised"
+            },
+            {
+              "name": "Mika",
+              "clothing_tags": "school uniform, sailor suit, cardigan",
+              "action_tags": "",
+              "expression_tags": "1girl surprised"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「……よし、行くぞ！　あ、あの、ミカちゃん！」\nミカ「わっ、びっくした！」"
+        }
+      ]
+    },
+    {
+      "page_number": 27,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Mika",
+              "clothing_tags": "school uniform, sailor suit, cardigan",
+              "action_tags": "looking back",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ミカ「タロウくん？　どうしたの？」\nタロウ「ごめん！　ちょっと聞きたいことが」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Mika",
+              "clothing_tags": "school uniform, sailor suit, cardigan",
+              "action_tags": "pointing finger",
+              "expression_tags": "mischievous smile, grinning"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ミカ「ヒナのことでしょ？　顔に書いてある」\nタロウ「えっ、バレバレ！？」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Mika",
+              "clothing_tags": "school uniform, sailor suit, cardigan",
+              "action_tags": "",
+              "expression_tags": "laughing, blushing heavily"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ミカ「ふふ、目で追ってるもん。クラスのみんな、知ってるよ」\nタロウ「マジかよ……死ぬほど恥ずかしい」"
+        }
+      ]
+    },
+    {
+      "page_number": 28,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「で、何が知りたいの？　えっと……デートに誘うならどこがいいかなって」\nミカ「お、ついに動く？」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Mika",
+              "clothing_tags": "school uniform, sailor suit, cardigan",
+              "action_tags": "thinking pose",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ミカ「そうだねえ……こないだ『隣町の神社の縁結び守りが可愛い』って言ってたよ」"
+        },
+        {
+          "panel_number": 3,
+          "size": "large",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "",
+              "expression_tags": "shocked"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, lightning effect background",
+          "dialogue_jp": "タロウ「縁結び……！　脈ありか！？」"
+        }
+      ]
+    },
+    {
+      "page_number": 29,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Mika",
+              "clothing_tags": "school uniform, sailor suit, cardigan",
+              "action_tags": "hand wave (dismissive)",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ミカ「いや、単にデザインが好きなだけ」\nタロウ「ガーン……」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Mika",
+              "clothing_tags": "school uniform, sailor suit, cardigan",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ミカ「でも、口実にはなるでしょ？　『付き合って』って言えば」\nタロウ「なるほど！　サンキューミカちゃん！」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Mika",
+              "clothing_tags": "school uniform, sailor suit, cardigan",
+              "action_tags": "fist",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ミカ「頑張ってねー。変なことしたら許さないよ？」\nタロウ「は、はい！　肝に銘じます！」"
+        }
+      ]
+    },
+    {
+      "page_number": 30,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "shouting",
+              "expression_tags": "happy"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, bedroom background",
+          "dialogue_jp": "タロウ「オリヒメ！　完璧だ！　『頼りがい』が好き！　『優柔不断』はNG！　そして『隣町の神社のお守り』に興味あり！」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "clapping hands",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「素晴らしい成果です、タロウ様。『彼を知る』はクリアですね」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「次は『己を知る』です」\nタロウ「己を知る？」"
+        }
+      ]
+    },
+    {
+      "page_number": 31,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "looking at viewer",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, looking at viewer",
+          "dialogue_jp": "オリヒメ「タロウ様の現状。頼りがい、ありますか？」\nタロウ「……自信ない。ケンジにも優柔不断って言われた」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "crossing arms",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「即答ですね。自覚があるのは良いことです、優柔不断を直し、決断力を示す。これが戦略の軸になります」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "looking down",
+              "expression_tags": "worried face"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「でも、性格なんてすぐ変わらないよ」"
+        }
+      ]
+    },
+    {
+      "page_number": 32,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "large",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "dramatic pose",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「性格じゃない。『振る舞い』を変えるのです。将とは演じるもの。不安な顔を見せる将軍に、兵はついてきません」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "clenched fist",
+              "expression_tags": "determined face"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, fire in background",
+          "dialogue_jp": "オリヒメ「ヒナ様の前では『頼れる男』を演じきるのです」\nタロウ「わかった。やってやるよ！」"
+        }
+      ]
+    },
+    {
+      "page_number": 33,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, blackboard with text 'Waging War'",
+          "dialogue_jp": "オリヒメ「第二講義、作戦篇。『兵は拙速を聞くも、未だ巧の久しきを睹ざるなり』」\nタロウ「日本語で頼む」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「『戦いは素早く終わらせろ』『長引いて良いことはない』」"
+        },
+        {
+          "panel_number": 3,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "raising hand",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「へえ。じっくり時間をかけた方が良くない？　誠実さのアピールとか」"
+        }
+      ]
+    },
+    {
+      "page_number": 34,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "large",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "making X sign with arms",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「誤りです。戦争はコストがかかる。恋愛も同じ」\nタロウ「コスト？」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「デート代だけじゃない。精神的消耗です」\nタロウ「確かに……片思い期間、しんどいもんな。夜も眠れないし」"
+        }
+      ]
+    },
+    {
+      "page_number": 35,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "large",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「その通り。何より恐ろしいのは……『長引くほど、対象から外されるリスクが高まる』」\nタロウ「えっ」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「人間関係には『慣れ』が生じます。ダラダラ続ければ、『無害な友人』で固定化されます」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "",
+              "expression_tags": "shock"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「いちばん恐れてたやつだ……」"
+        }
+      ]
+    },
+    {
+      "page_number": 36,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Ref",
+              "clothing_tags": "",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「いわゆる『友達フォルダ』。一度入ったら、脱出は困難を極めます。『いい人だけど、彼氏じゃないかなー』」\nタロウ「やめろ！　吐きそうになった！」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "fist pump",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「勝負は短期決戦。好意に気づき始めたら、一気に畳み掛けるのです」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "",
+              "expression_tags": "serious, sweating"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「よし、わかった。ダラダラは終わりだ。でも、焦って失敗するのは怖い」"
+        }
+      ]
+    },
+    {
+      "page_number": 37,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "large",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "hand on chest",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「ご安心を。今は準備段階。私が『GO』を出したら、迷わず進んでください」"
+        }
+      ]
+    },
+    {
+      "page_number": 38,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, blackboard with text 'Attack by Stratagem'",
+          "dialogue_jp": "オリヒメ「第三講義、謀攻篇。『戦わずして人の兵を屈するは善の善なる者なり』」\nタロウ「戦わずに勝つ？　告白しないってこと？」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "pointing finger up",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「違います。『相手から好きになってもらう』あるいは『告白すれば100%OKの状況を作る』」"
+        },
+        {
+          "panel_number": 3,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "holding smartphone",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「そのための『LINE添削道場』を始めます」\nタロウ「なにそれ」"
+        }
+      ]
+    },
+    {
+      "page_number": 39,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, showing smartphone screen",
+          "dialogue_jp": "タロウ「えー、恥ずかしいな……ほら」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「……」\nオリヒメ「絶句しました」\nタロウ「なんだよ！」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Screen",
+              "clothing_tags": "",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, smartphone screen, bad text messages",
+          "dialogue_jp": "オリヒメ「『おーい』『暇？』『謎スタンプ』。既読スルーされて当然です」\nタロウ「だって！　話題がないんだもん！」"
+        }
+      ]
+    },
+    {
+      "page_number": 40,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "shouting",
+              "expression_tags": "angry"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「話題がないなら送るな。雑音です」\nタロウ「じゃあどうすんだよ」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "teacher pose",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「『目的のある連絡』をするのです。リサーチを活かして」\nタロウ「『今度の土曜、暇？』とか？」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「0点です。『用事があるかも』と警戒されます。正解はこう」"
+        }
+      ]
+    },
+    {
+      "page_number": 41,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "large",
+          "characters": [
+            {
+              "name": "Screen",
+              "clothing_tags": "",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, smartphone screen, good text message",
+          "dialogue_jp": "オリヒメ「『隣町の神社で縁結びのお守り売ってるらしいんだけど、興味ある？』」\nタロウ「おお……これならYESかNOで答えやすい！」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": "confident smile"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「そして『興味ある！』と来たら……『じゃあ一緒に買いに行こう』と繋げる\nこれが謀攻です。相手が乗りたくなる提案をするのです」"
+        }
+      ]
+    },
+    {
+      "page_number": 42,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [],
+          "general_tags": "monochrome, comic, manga style, smartphone screen, message notification",
+          "dialogue_jp": "スマホ《ピコン！》\nタロウ「き、来た……！」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "looking at phone",
+              "expression_tags": "happy, wide eyes"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「『えー！行く行く！御朱印欲しかったんだー！』……やった！！」"
+        },
+        {
+          "panel_number": 3,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "school uniform, gakuran",
+              "action_tags": "fist pump",
+              "expression_tags": ""
+            },
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "fist pump",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「完璧です。敵は誘引に乗りました。これでデート確定です」\nタロウ「しゃあ！」"
+        }
+      ]
+    },
+    {
+      "page_number": 43,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "large",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, messy room",
+          "dialogue_jp": "タロウ「服どうしよう？　これか？　いやこっちか？」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "arms crossed",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「清潔感第一です。そのヨレヨレのシャツは廃棄してください」\nタロウ「これお気に入りなのに……」"
+        }
+      ]
+    },
+    {
+      "page_number": 44,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [],
+          "general_tags": "monochrome, comic, manga style, scenery, crowd",
+          "dialogue_jp": "キャプション「決戦当日」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "",
+              "expression_tags": "nervous"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「（10分前着。落ち着け……シミュレーション通りだ）」"
+        },
+        {
+          "panel_number": 3,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Hina",
+              "clothing_tags": "white one piece dress, sundress, cute, casual clothes",
+              "action_tags": "waving hand",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ヒナ「タロウくーん！　お待たせ！」"
+        }
+      ]
+    },
+    {
+      "page_number": 45,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "large",
+          "characters": [
+            {
+              "name": "Hina",
+              "clothing_tags": "white one piece dress, sundress, cute, casual clothes",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, sparkles",
+          "dialogue_jp": "ヒナ「早かったね！　待った？」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "",
+              "expression_tags": "blushing, stunned"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, heart beat effect",
+          "dialogue_jp": "タロウ「（か、可愛い！！　私服破壊力高すぎだろ！！）」\nタロウ「全然！　俺も今来たところ」"
+        }
+      ]
+    },
+    {
+      "page_number": 46,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [],
+          "general_tags": "monochrome, comic, manga style, scenery, train interior",
+          "dialogue_jp": "（電車移動中）"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "sitting side by side, looking away",
+              "expression_tags": ""
+            },
+            {
+              "name": "Hina",
+              "clothing_tags": "white one piece dress, sundress, cute, casual clothes",
+              "action_tags": "sitting side by side, looking away",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「（やべえ、緊張して話せねえ……）」"
+        },
+        {
+          "panel_number": 3,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "whispering in ear (hologram)",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「（会話の主導権を握るのです。『道』の話題。共通の話題を）」"
+        }
+      ]
+    },
+    {
+      "page_number": 47,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "turning to girl",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「そういえば、こないだのテスト、どうだった？」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Hina",
+              "clothing_tags": "white one piece dress, sundress, cute, casual clothes",
+              "action_tags": "hand on mouth",
+              "expression_tags": "laughing"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ヒナ「もう最悪！　数学とか全然わかんなくてさー」"
+        },
+        {
+          "panel_number": 3,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "",
+              "expression_tags": ""
+            },
+            {
+              "name": "Hina",
+              "clothing_tags": "white one piece dress, sundress, cute, casual clothes",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, flowers background",
+          "dialogue_jp": "タロウ「俺も俺も。因数分解とか意味不だよな」\nヒナ「だよねー！　あ、でも英語は良かったよ」"
+        }
+      ]
+    },
+    {
+      "page_number": 48,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [],
+          "general_tags": "monochrome, comic, manga style, scenery, shinto shrine torii, trees, stone stairs",
+          "dialogue_jp": "タロウ「着いたな。結構階段あるな」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "walking up stairs",
+              "expression_tags": ""
+            },
+            {
+              "name": "Hina",
+              "clothing_tags": "white one piece dress, sundress, cute, casual clothes",
+              "action_tags": "walking up stairs",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, walking up stairs, view from back",
+          "dialogue_jp": "ヒナ「よいしょ、よいしょ」"
+        },
+        {
+          "panel_number": 3,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Hina",
+              "clothing_tags": "white one piece dress, sundress, cute, casual clothes",
+              "action_tags": "",
+              "expression_tags": "wiping sweat"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ヒナ「ふぅ……意外とキツイかも」"
+        }
+      ]
+    },
+    {
+      "page_number": 49,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "offering hand",
+              "expression_tags": "gentlemanly smile"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「大丈夫？　手、貸そうか？」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Hina",
+              "clothing_tags": "white one piece dress, sundress, cute, casual clothes",
+              "action_tags": "looking at hand",
+              "expression_tags": "surprised eyes"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ヒナ「あ……」"
+        },
+        {
+          "panel_number": 3,
+          "size": "large",
+          "characters": [],
+          "general_tags": "monochrome, comic, manga style, close up of hands holding, sparkles",
+          "dialogue_jp": "ヒナ「ありがとう……」\nタロウ「（よっしゃあ！！　自然に手繋げた！！）」"
+        }
+      ]
+    },
+    {
+      "page_number": 50,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [],
+          "general_tags": "monochrome, comic, manga style, scenery, shrine",
+          "dialogue_jp": "（手水舎にて）"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Hina",
+              "clothing_tags": "white one piece dress, sundress, cute, casual clothes",
+              "action_tags": "washing hands",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ヒナ「左手、右手、口……だよね」"
+        },
+        {
+          "panel_number": 3,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "washing hands gracefully",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「そうそう。完璧」\nヒナ「タロウくん詳しくない？」\nタロウ「まあ、予習してきたから（ドヤ）」"
+        }
+      ]
+    },
+    {
+      "page_number": 51,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "large",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "praying together, clapping hands",
+              "expression_tags": ""
+            },
+            {
+              "name": "Hina",
+              "clothing_tags": "white one piece dress, sundress, cute, casual clothes",
+              "action_tags": "praying together, clapping hands",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, shrine building background",
+          "dialogue_jp": "（二礼二拍手一礼）"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "",
+              "expression_tags": "serious inner thought, sweat"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「（どうか！　彼女と付き合えますように！　神様、孫子様！）」"
+        }
+      ]
+    },
+    {
+      "page_number": 52,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [],
+          "general_tags": "monochrome, comic, manga style, scenery, miko in background",
+          "dialogue_jp": "ヒナ「あ、おみくじ引こうよ！」\nタロウ「おう！」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "shaking omikuji box",
+              "expression_tags": ""
+            },
+            {
+              "name": "Hina",
+              "clothing_tags": "white one piece dress, sundress, cute, casual clothes",
+              "action_tags": "shaking omikuji box",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ガラガラガラ……"
+        }
+      ]
+    },
+    {
+      "page_number": 53,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "large",
+          "characters": [
+            {
+              "name": "Hina",
+              "clothing_tags": "white one piece dress, sundress, cute, casual clothes",
+              "action_tags": "holding paper saying 'Daikichi'",
+              "expression_tags": "beaming smile, happy"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ヒナ「やったー！　大吉だ！」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "holding paper saying 'Shokichi'",
+              "expression_tags": "disappointed face"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「俺は……小吉。……地味だ」"
+        }
+      ]
+    },
+    {
+      "page_number": 54,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [],
+          "general_tags": "monochrome, comic, manga style, close up on omikuji text",
+          "dialogue_jp": "ヒナ「『待ち人、来る。早し』だって！　タロウくんは？」\nタロウ「『争い事、控えるべし。勝つこと難し』……」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Hina",
+              "clothing_tags": "white one piece dress, sundress, cute, casual clothes",
+              "action_tags": "",
+              "expression_tags": "laughing cheerfully"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ヒナ「あはは！　戦争しちゃダメってことだね」\nタロウ「なんでわかるんだよ……」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "",
+              "expression_tags": "pouting"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「笑うなよー」"
+        }
+      ]
+    },
+    {
+      "page_number": 55,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": "serious face"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「（一喜一憂している時間はありません。孫氏曰く）」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, quoting text",
+          "dialogue_jp": "オリヒメ「『乱は治に生じ、怯は勇に生じ、弱は強に生ず』」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「（チャンスはピンチの中にあり……逆もまた然り、か）」"
+        }
+      ]
+    },
+    {
+      "page_number": 56,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "large",
+          "characters": [],
+          "general_tags": "monochrome, comic, manga style, scenery, crowd of people, busy shrine grounds",
+          "dialogue_jp": "（ドンッ！　参拝客の波）"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Hina",
+              "clothing_tags": "white one piece dress, sundress, cute, casual clothes",
+              "action_tags": "stumbling",
+              "expression_tags": "surprised"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ヒナ「キャッ！」"
+        }
+      ]
+    },
+    {
+      "page_number": 57,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "catching girl, cool pose",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, shielding her from crowd",
+          "dialogue_jp": "タロウ「っと！　危ない！」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Hina",
+              "clothing_tags": "white one piece dress, sundress, cute, casual clothes",
+              "action_tags": "looking up at boy",
+              "expression_tags": "blushing"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ヒナ「あ、ありがとう……」"
+        },
+        {
+          "panel_number": 3,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「（ナイスです。吊り橋効果も期待できます）」"
+        }
+      ]
+    },
+    {
+      "page_number": 58,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [],
+          "general_tags": "monochrome, comic, manga style, scenery, shrine shop counter",
+          "dialogue_jp": "タロウ「お守り、これだね」\nヒナ「うん！　可愛いー！」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [],
+          "general_tags": "monochrome, comic, manga style, close up of two charms (pink and blue)",
+          "dialogue_jp": "タロウ「俺も買おうかな……色違い」\nヒナ「えっ、じゃあお揃いだね！」"
+        },
+        {
+          "panel_number": 3,
+          "size": "large",
+          "characters": [
+            {
+              "name": "Hina",
+              "clothing_tags": "white one piece dress, sundress, cute, casual clothes",
+              "action_tags": "holding charm to chest",
+              "expression_tags": "happy smile"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ヒナ「大切にするね」\nタロウ「（グハッ……破壊力……！！）」"
+        }
+      ]
+    },
+    {
+      "page_number": 59,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "large",
+          "characters": [],
+          "general_tags": "monochrome, comic, manga style, scenery, sunset sky",
+          "dialogue_jp": "（帰り道、夕暮れの公園）"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "sitting on bench",
+              "expression_tags": ""
+            },
+            {
+              "name": "Hina",
+              "clothing_tags": "white one piece dress, sundress, cute, casual clothes",
+              "action_tags": "sitting on bench",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ヒナ「今日は楽しかったね」\nタロウ「ああ……」"
+        }
+      ]
+    },
+    {
+      "page_number": 60,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "shouting, 'Charge' pose",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「（時が来ました。敵の城門は開かれています。全軍突撃です！！）」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "",
+              "expression_tags": "sweating heavily, serious face"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「（今ここで告白！？　心の準備が！）」"
+        },
+        {
+          "panel_number": 3,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "pushing back",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「（勢い（兵勢）に乗るのです！　言わなければ一生『いい友達』ですよ！）」"
+        }
+      ]
+    },
+    {
+      "page_number": 61,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "large",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "clenched teeth",
+              "expression_tags": "determined eyes"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「（わかった……行くぞ！　俺の全てを賭ける！）」\nタロウ「ヒナちゃん」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "looking straight",
+              "expression_tags": "speaking seriously"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「俺……楽しかったのは、お守りがあったからじゃない」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "looking at 1girl",
+              "expression_tags": "gentle eyes"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「ヒナちゃんと一緒だったから、最高に楽しかったんだ」"
+        }
+      ]
+    },
+    {
+      "page_number": 62,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "bowing slightly, hand on chest",
+              "expression_tags": "sincere"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「俺、ヒナちゃんのことが好きだ。友達としてじゃなくて、一人の女性として」"
+        },
+        {
+          "panel_number": 2,
+          "size": "large",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "bowing deeply (90 degrees), shouting confession",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「俺と付き合ってください！　絶対に大事にするから！」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Hina",
+              "clothing_tags": "white one piece dress, sundress, cute, casual clothes",
+              "action_tags": "",
+              "expression_tags": "wide eyes"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ヒナ「……」\nタロウ「（沈黙が怖い！　ダメか……！？）」"
+        }
+      ]
+    },
+    {
+      "page_number": 63,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Hina",
+              "clothing_tags": "white one piece dress, sundress, cute, casual clothes",
+              "action_tags": "shoulders shaking",
+              "expression_tags": "holding back laughter"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ヒナ「……プッ」\nタロウ「えっ？　笑われた！？」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Hina",
+              "clothing_tags": "white one piece dress, sundress, cute, casual clothes",
+              "action_tags": "pointing at boy",
+              "expression_tags": "laughing tears"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ヒナ「あはは、ごめんごめん。違うの。タロウくん、顔真っ赤だよ？　耳まで」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "shouting back",
+              "expression_tags": "blushing furiously"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「う……仕方ないだろ！　必死なんだから！　一生に一度の勝負なんだぞ！」"
+        }
+      ]
+    },
+    {
+      "page_number": 64,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Hina",
+              "clothing_tags": "white one piece dress, sundress, cute, casual clothes",
+              "action_tags": "",
+              "expression_tags": "serious text"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, serious text",
+          "dialogue_jp": "ヒナ「うん。……伝わったよ」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Hina",
+              "clothing_tags": "white one piece dress, sundress, cute, casual clothes",
+              "action_tags": "",
+              "expression_tags": "blushing slightly, beautiful smile"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "ヒナ「私も、今日のタロウくん見てて、ずっとドキドキしてた。……私でよければ、よろしくお願いします」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "",
+              "expression_tags": "blank face"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「え……マジで？」\nヒナ「ふふ、マジだよ」"
+        }
+      ]
+    },
+    {
+      "page_number": 65,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "large",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "jumping up, fists raised",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「やったあああああああ！！」\nヒナ「声大きいよ！」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「（やったなタロウ！　大勝利だ！）」"
+        }
+      ]
+    },
+    {
+      "page_number": 66,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "bowing politely",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style, room background",
+          "dialogue_jp": "オリヒメ「タロウ様、おめでとうございます。作戦目標、完全達成です」\nタロウ「ありがとうオリヒメ！　お前のおかげだ！」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "shaking head",
+              "expression_tags": "gentle smile"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「私は策を授けただけ。勝利を掴んだのは、タロウ様の成長です。優柔不断を捨て、決断し、行動した」"
+        }
+      ]
+    },
+    {
+      "page_number": 67,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "rubbing nose",
+              "expression_tags": "shy smile"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「へへっ、照れるな。……頼りにしてるぜ、これからも」\nタロウ「もちろんです、マスター」"
+        },
+        {
+          "panel_number": 2,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Taro",
+              "clothing_tags": "white shirt, chinos, casual clothes, stylish",
+              "action_tags": "",
+              "expression_tags": "confused face"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "タロウ「え？　今マスターって」"
+        },
+        {
+          "panel_number": 3,
+          "size": "small",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "looking away",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「おや、空耳では？　タロウ様」"
+        }
+      ]
+    },
+    {
+      "page_number": 68,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": "serious"
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「さて。次のミッションです」\nタロウ「えっ、まだあるの？」"
+        },
+        {
+          "panel_number": 2,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「『勝利を保つは攻めるより難し』。防衛戦術講義を始めます」\nタロウ「うげー、まだ続くのかよ！？」"
+        }
+      ]
+    },
+    {
+      "page_number": 69,
+      "panels": [
+        {
+          "panel_number": 1,
+          "size": "medium",
+          "characters": [
+            {
+              "name": "Orihime",
+              "clothing_tags": "maid uniform, headdress, apron",
+              "action_tags": "listing items",
+              "expression_tags": ""
+            }
+          ],
+          "general_tags": "monochrome, comic, manga style",
+          "dialogue_jp": "オリヒメ「当たり前です。デート選び、記念日管理、そして最大の難関『親への挨拶』……今回以上の強敵です」\nタロウ「マジかよ……」"
+        },
+        {
+          "panel_number": 2,
+          "size": "large",
+          "characters": [],
+          "general_tags": "monochrome, comic, manga style, smartphone screen displaying selfie of 1boy and 1girl smiling happily, text overlay",
+          "dialogue_jp": "オリヒメ「ふふ、でも……ヒナちゃんとなら、頑張れるだろ？」\nタロウ「……まあな！」\nモノローグ「恋愛という戦場で、二人の行軍は始まったばかり――」"
+        }
+      ]
+    }
+  ]
 }
